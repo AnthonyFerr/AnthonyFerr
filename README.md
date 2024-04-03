@@ -1,2 +1,2 @@
-Novice highschooler whos interested in python and data science. 
-Considering C++ followed by Java.
+Wentworth Student with experience in Java, Python, and JS. 
+Automation and Data Science
